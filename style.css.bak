@@ -58,7 +58,7 @@ header h1 {
 .background-image {
   width: 100%;
   height: 200px;
-  background-image: url('https://p16-oec-sg.ibyteimg.com/tos-alisg-i-aphluv4xwc-sg/ca74b4ce960f4f828a0f37f1f74bf881~tplv-aphluv4xwc-origin-jpeg.jpeg?dr=15568&nonce=70182&refresh_token=18e164bb9875aac41e166f6b64642d73&from=1432613627&idc=my&ps=933b5bde&shcp=9cd7d13a&shp=5563f2fb&t=555f072dwidth=1080&height=1437'); /* Ganti URL gambar sesuai dengan ID gambar Google Drive */
+  background-image: url('https://drive.google.com/uc?export=view&id=1VDS8VRkneXAHpiEKgEuPD4cIpgehfjPm'); /* Ganti URL gambar sesuai dengan ID gambar Google Drive */
   background-size: cover;
   background-position: center;
   margin-top: 10px;
